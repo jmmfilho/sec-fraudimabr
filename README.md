@@ -35,5 +35,5 @@
 - Executar a aplicação
 
 ```bash
-  ./scripts$ python3 app.py
+  ./scripts$ python3 experimento.py
 ```
